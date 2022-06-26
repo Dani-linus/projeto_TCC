@@ -7,7 +7,7 @@ import {createStackNavigator} from '@react-navigation/stack';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Tela</Text>
+      <Text>Tela Menu</Text>
       <StatusBar style="auto" />
     </View>
   );
